@@ -40,7 +40,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
    **Technologies**: Python, Jupyter Notebook, Dash, Plotly  
    **Description**: This project compares stock performance and revenue trends for **Tesla** and **GameStop**, using interactive visualizations built with **Dash** and **Plotly**. It includes exploratory data analysis (EDA), time-series analysis, and performance comparison.
 
-4. **[IBM-Capstone-Project](https://github.com/your-username/IBM-Capstone-Project)**  
+4. **[IBM-Capstone-Project](https://github.com/siddhi197/IBM-Capstone-Project)**  
    **Technologies**: Python, Jupyter Notebook, IBM Data Science Tools  
    **Description**: This is my capstone project from the **IBM Data Science Professional Certificate**. The project uses real-world data to build predictive models, conduct exploratory data analysis, and present actionable insights through visualizations.
 
@@ -99,8 +99,8 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 Here is a list of relevant certifications that demonstrate my commitment to learning and improving my skills:
 
 - **IBM Data Analytics Professional Certificate**
-- **Google Ads Course** (Google Digital Garage)
 - **Google Data Analytics Professional Certificate**
+- **Google Ads Course** (Google Digital Garage)
 - **CRM Salesforce Training**
 - **C, C++, & Java Programming**
 
@@ -111,7 +111,7 @@ Here is a list of relevant certifications that demonstrate my commitment to lear
 You can reach me at:
 - [Email](mailto:Siddhi197@gmail.com)
 - [LinkedIn](your_linkedin_profile)
-- [GitHub](your_github_profile)
+- [GitHub](https://github.com/siddhi197)
 - [Phone](tel:+14844794985)
 
 ---
