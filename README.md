@@ -7,7 +7,7 @@ With a solid foundation in **web development** (PHP, MySQL, JavaScript) and **di
 
 In my free time, I continuously explore new data analysis tools and techniques. Whether I'm working independently or collaborating on open-source projects, I’m always looking for opportunities to improve my skills and contribute to the community.
 
-[My CV in PDF](#) *(Link to your CV)*
+[My CV in PDF](#Profile Siddhi Kholkar.pdf) *(Link to your CV)*
 
 This repository serves as a portfolio to showcase my **Data Analysis**, **Web Development**, and **Data Science** projects and track my professional growth.
 
