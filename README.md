@@ -14,6 +14,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 ---
 
 ## Table of Contents
+- [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [Data Analysis Projects](#data-analysis-projects)
   - [Web Development Projects](#web-development-projects)
