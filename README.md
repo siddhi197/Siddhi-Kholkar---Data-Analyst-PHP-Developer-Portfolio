@@ -38,8 +38,9 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
 
 3. **[Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard](https://github.com/siddhi197/Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard)**  
-   **Technologies**: Python, Jupyter Notebook, Dash, Plotly  
-   **Description**: This project compares stock performance and revenue trends for **Tesla** and **GameStop**, using interactive visualizations built with **Dash** and **Plotly**. It includes exploratory data analysis (EDA), time-series analysis, and performance comparison.
+   **Technologies**: Python, yfinance, BeautifulSoup, Plotly  
+   **Description**: A project that demonstrates how to extract and visualize stock data using Python. This repository includes examples of fetching stock prices using the `yfinance` library for **Tesla** and **GameStop**, scraping quarterly revenue data with **BeautifulSoup**, and processing the data for analysis. The project also shows how to create interactive graphs using **Plotly**, comparing stock performance with company revenue trends. It provides insights into the correlation between stock prices and revenue over time.
+
 
 4. **[IBM-Capstone-Project](https://github.com/siddhi197/IBM-Capstone-Project)**  
    **Technologies**: Python, Jupyter Notebook, IBM Data Science Tools  
