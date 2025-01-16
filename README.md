@@ -34,7 +34,8 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
 2. **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
    **Technologies**: Excel  
-   **Description**: A series of Excel-based data analysis projects showcasing my ability to clean, process, and visualize data using **Excel**. The repository includes tutorials and walkthroughs of practical Excel techniques for data analysis.
+   **Description**:  A collection of Excel-based data analysis projects that showcase my proficiency in data cleaning, transformation, and analysis. This repository includes practical examples, such as sales data analysis, where I apply key Excel functions (like VLOOKUP, IF, SUMIF), pivot tables, and conditional formulas to derive actionable insights. The projects focus on optimizing and processing data to answer business questions and improve decision-making.
+
 
 3. **[Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard](https://github.com/your-username/Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard)**  
    **Technologies**: Python, Jupyter Notebook, Dash, Plotly  
