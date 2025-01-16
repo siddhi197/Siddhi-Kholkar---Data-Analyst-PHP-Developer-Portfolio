@@ -28,25 +28,29 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
 ### Data Analysis Projects
 
-1. **[SQL](https://github.com/siddhi197/Data-Analysis-Portfolio)**  
-   **Technologies**: Python, Jupyter Notebook, Pandas, NumPy, Matplotlib  
-   **Description**: This repository houses a collection of data analysis projects that demonstrate my ability to work with large datasets, clean data, and visualize insights. It includes various case studies where I've applied analytical methods to extract meaningful insights from different sources.
+1. **[SQL dataset explorations](https://github.com/siddhi197/sql-dataset-explorations)**  
+   **Technologies**: SQL, BigQuery (for querying large datasets), Data Cleaning Techniques, Data Analysis (aggregations, joins, window functions)  
+   **Description**: This repository houses a collection of **data analysis projects** where I've utilized **SQL** to clean, analyze, and visualize datasets. The projects include working with large datasets, performing data transformations, and extracting insights. The repositories focus on **Nashville Housing Data** and **COVID-19 Data**, applying SQL techniques to clean, organize, and perform exploratory data analysis (EDA).  
 
-2. **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
+   **Projects**:  
+   - [Nashville Housing Data](#)  
+   - [COVID-19 Data](./COVID_Data_Exploration.sql)
+
+3. **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
    **Technologies**: Excel  
    **Description**:  A collection of Excel-based data analysis projects that showcase my proficiency in data cleaning, transformation, and analysis. This repository includes practical examples, such as sales data analysis, where I apply key Excel functions (like VLOOKUP, IF, SUMIF), pivot tables, and conditional formulas to derive actionable insights. The projects focus on optimizing and processing data to answer business questions and improve decision-making.
 
 
-3. **[Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard](https://github.com/siddhi197/Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard)**  
+4. **[Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard](https://github.com/siddhi197/Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard)**  
    **Technologies**: Python, yfinance, BeautifulSoup, Plotly  
    **Description**: A project that demonstrates how to extract and visualize stock data using Python. This repository includes examples of fetching stock prices using the `yfinance` library for **Tesla** and **GameStop**, scraping quarterly revenue data with **BeautifulSoup**, and processing the data for analysis. The project also shows how to create interactive graphs using **Plotly**, comparing stock performance with company revenue trends. It provides insights into the correlation between stock prices and revenue over time.
 
 
-4. **[IBM-Capstone-Project](https://github.com/siddhi197/IBM-Capstone-Project)**  
+5. **[IBM-Capstone-Project](https://github.com/siddhi197/IBM-Capstone-Project)**  
    **Technologies**: Python, Jupyter Notebook, IBM Data Science Tools  
    **Description**: This is my capstone project from the **IBM Data Science Professional Certificate**. The project uses real-world data to build predictive models, conduct exploratory data analysis, and present actionable insights through visualizations.
 
-5. **Tableau --> [Go to Tableau](https://public.tableau.com/app/profile/siddhi8530)**
+6. **Tableau --> [Go to Tableau](https://public.tableau.com/app/profile/siddhi8530)**
 ---
 
 ### Web Development Projects
