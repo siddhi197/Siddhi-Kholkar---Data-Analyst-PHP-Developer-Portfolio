@@ -32,7 +32,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
    **Technologies**: Python, Jupyter Notebook, Pandas, NumPy, Matplotlib  
    **Description**: This repository houses a collection of data analysis projects that demonstrate my ability to work with large datasets, clean data, and visualize insights. It includes various case studies where I've applied analytical methods to extract meaningful insights from different sources.
 
-2. **[Excel-Data-Analysis](https://github.com/siddhi197/Excel-Data-Analysis)**  
+2. **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
    **Technologies**: Excel  
    **Description**: A series of Excel-based data analysis projects showcasing my ability to clean, process, and visualize data using **Excel**. The repository includes tutorials and walkthroughs of practical Excel techniques for data analysis.
 
