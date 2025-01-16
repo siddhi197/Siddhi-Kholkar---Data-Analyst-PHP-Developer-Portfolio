@@ -28,7 +28,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
 ### Data Analysis Projects
 
-1. **[Data-Analysis-Portfolio](https://github.com/siddhi197/Data-Analysis-Portfolio)**  
+1. **[SQL](https://github.com/siddhi197/Data-Analysis-Portfolio)**  
    **Technologies**: Python, Jupyter Notebook, Pandas, NumPy, Matplotlib  
    **Description**: This repository houses a collection of data analysis projects that demonstrate my ability to work with large datasets, clean data, and visualize insights. It includes various case studies where I've applied analytical methods to extract meaningful insights from different sources.
 
