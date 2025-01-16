@@ -28,7 +28,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
 ### Data Analysis Projects
 
-1. **[Data-Analysis-Portfolio](https://github.com/your-username/Data-Analysis-Portfolio)**  
+1. **[Data-Analysis-Portfolio](https://github.com/siddhi197/Data-Analysis-Portfolio)**  
    **Technologies**: Python, Jupyter Notebook, Pandas, NumPy, Matplotlib  
    **Description**: This repository houses a collection of data analysis projects that demonstrate my ability to work with large datasets, clean data, and visualize insights. It includes various case studies where I've applied analytical methods to extract meaningful insights from different sources.
 
@@ -37,7 +37,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
    **Description**:  A collection of Excel-based data analysis projects that showcase my proficiency in data cleaning, transformation, and analysis. This repository includes practical examples, such as sales data analysis, where I apply key Excel functions (like VLOOKUP, IF, SUMIF), pivot tables, and conditional formulas to derive actionable insights. The projects focus on optimizing and processing data to answer business questions and improve decision-making.
 
 
-3. **[Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard](https://github.com/your-username/Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard)**  
+3. **[Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard](https://github.com/siddhi197/Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard)**  
    **Technologies**: Python, Jupyter Notebook, Dash, Plotly  
    **Description**: This project compares stock performance and revenue trends for **Tesla** and **GameStop**, using interactive visualizations built with **Dash** and **Plotly**. It includes exploratory data analysis (EDA), time-series analysis, and performance comparison.
 
@@ -50,23 +50,23 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
 ### Web Development Projects
 
-1. **[website](https://github.com/your-username/website)**  
+1. **[website](https://github.com/siddhi197/website)**  
    **Technologies**: HTML, CSS  
    **Description**: A personal website built using HTML and **CSS** to showcase my projects and work experience. The website serves as a professional portfolio where potential employers or clients can explore my skills and projects.
 
-2. **[wordpressWebsite](https://github.com/your-username/wordpressWebsite)**  
+2. **[wordpressWebsite](https://github.com/siddhi197/wordpressWebsite)**  
    **Technologies**: PHP, WordPress  
    **Description**: A WordPress-based website developed for a client in the **eCommerce** industry. The project involved setting up an online store, customizing themes and plugins, and optimizing the website for SEO.
 
-3. **[Project-Rock-Paper-Scissors](https://github.com/your-username/Project-Rock-Paper-Scissors)**  
+3. **[Project-Rock-Paper-Scissors](https://github.com/siddhi197/Project-Rock-Paper-Scissors)**  
    **Technologies**: JavaScript  
    **Description**: A **JavaScript**-based implementation of the classic **Rock, Paper, Scissors** game, built as a fun project to practice core JavaScript concepts like user input handling, conditionals, and event listeners.
 
-4. **[landing-page](https://github.com/your-username/landing-page)**  
+4. **[landing-page](https://github.com/siddhi197/landing-page)**  
    **Technologies**: HTML, CSS  
    **Description**: A **landing page** built using **HTML** and **CSS**. The project demonstrates my ability to design clean, responsive, and visually appealing web pages for businesses or personal branding.
 
-5. **[odin-recipes](https://github.com/your-username/odin-recipes)**  
+5. **[odin-recipes](https://github.com/siddhi197/odin-recipes)**  
    **Technologies**: HTML  
    **Description**: A simple **recipe website** project built as part of the **Odin Project**. It showcases my skills in HTML and structuring content for web-based projects.
 
@@ -78,11 +78,11 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
 ### JavaScript and CSS Projects
 
-1. **[javascript-exercises](https://github.com/your-username/javascript-exercises)**  
+1. **[javascript-exercises](https://github.com/siddhi197/javascript-exercises)**  
    **Technologies**: JavaScript  
    **Description**: A series of **JavaScript** exercises that focus on building strong foundational skills. This includes working with variables, functions, loops, and DOM manipulation.
 
-2. **[css-exercises](https://github.com/your-username/css-exercises)**  
+2. **[css-exercises](https://github.com/siddhi197/css-exercises)**  
    **Technologies**: CSS  
    **Description**: A collection of **CSS** exercises designed to practice styling techniques, responsive design, and layout systems such as Flexbox and Grid.
 
