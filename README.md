@@ -74,10 +74,6 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
    **Technologies**: HTML  
    **Description**: A simple **recipe website** project built as part of the **Odin Project**. It showcases my skills in HTML and structuring content for web-based projects.
 
-6. **[classicbicycles.github.io](https://classicbicycles.github.io)**  
-   **Technologies**: HTML, CSS  
-   **Description**: A **GitHub Pages** project showcasing a **classic bicycles store** website built using **HTML** and **CSS**. The project demonstrates my ability to deploy static websites using GitHub Pages.
-
 ---
 
 ### JavaScript and CSS Projects
