@@ -60,7 +60,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
 2. **[wordpressWebsite](https://github.com/siddhi197/wordpressWebsite)**  
    **Technologies**: PHP, WordPress  
-   **Description**: A WordPress-based website developed for a client in the **eCommerce** industry. The project involved setting up an online store, customizing themes and plugins, and optimizing the website for SEO.
+   **Description**: This repository contains the code for the **Fictional University** WordPress website. The website includes custom post types, custom templates, and functionalities tailored to the needs of the university.
 
 3. **[Project-Rock-Paper-Scissors](https://github.com/siddhi197/Project-Rock-Paper-Scissors)**  
    **Technologies**: JavaScript  
