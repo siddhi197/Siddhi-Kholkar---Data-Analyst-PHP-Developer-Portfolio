@@ -34,7 +34,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 
    **Projects**:  
    - [Nashville Housing Data](#)  
-   - [COVID-19 Data](./sql-dataset-explorations/COVID_Data_Exploration.sql)
+   - [COVID-19 Data](https://github.com/siddhi197/sql-dataset-explorations/blob/main/COVID_Data_Exploration.sql)
 
 3. **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
    **Technologies**: Excel  
