@@ -44,7 +44,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
    **Technologies**: Python, Jupyter Notebook, IBM Data Science Tools  
    **Description**: This is my capstone project from the **IBM Data Science Professional Certificate**. The project uses real-world data to build predictive models, conduct exploratory data analysis, and present actionable insights through visualizations.
 
-5. **[Tableau](https://public.tableau.com/app/profile/siddhi8530)**
+5. **Tableau --> [Go to Tableau](https://public.tableau.com/app/profile/siddhi8530)**
 ---
 
 ### Web Development Projects
