@@ -31,9 +31,14 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 1. **[SQL dataset explorations](https://github.com/siddhi197/sql-dataset-explorations)**  
    **Technologies**: SQL, BigQuery (for querying large datasets), Data Cleaning Techniques, Data Analysis (aggregations, joins, window functions)  
    **Description**: This repository houses a collection of **data analysis projects** where I've utilized **SQL** to clean, analyze, and visualize datasets. The projects include working with large datasets, performing data transformations, and extracting insights. The repositories focus on **Nashville Housing Data** and **COVID-19 Data**, applying SQL techniques to clean, organize, and perform exploratory data analysis (EDA).  
-   **Projects**:  
-          - <span style="font-size: 0.85em; font-weight: bold;">[Nashville Housing Data](https://github.com/siddhi197/sql-dataset-explorations/blob/main/Data%20Cleaning%20Project%20Queries%3A%20Nashville%20Housing.sql)</span>  
-          - <span style="font-size: 0.85em; font-weight: bold;">[COVID-19 Data](https://github.com/siddhi197/sql-dataset-explorations/blob/main/COVID_Data_Exploration.sql)</span>  
+   
+   **Projects**:
+
+- [Bike-Share Analysis Case Study](https://github.com/siddhi197/sql-dataset-explorations/blob/main/Bike-Share%20Analysis%20Case%20Study)
+- [Nashville Housing Data](https://github.com/siddhi197/sql-dataset-explorations/blob/main/Data%20Cleaning%20Project%20Queries%3A%20Nashville%20Housing.sql)
+- [COVID-19 Data](https://github.com/siddhi197/sql-dataset-explorations/blob/main/COVID_Data_Exploration.sql)
+- [Layoffs Data Cleaning](https://github.com/siddhi197/sql-dataset-explorations/blob/main/layoff_DataCleaningStatements.sql)
+
 
 3. **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
    **Technologies**: Excel  
