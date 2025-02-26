@@ -37,7 +37,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 - [Bike-Share Analysis Case Study](https://github.com/siddhi197/sql-dataset-explorations/blob/main/Bike-Share%20Analysis%20Case%20Study)
 - [Nashville Housing Data](https://github.com/siddhi197/sql-dataset-explorations/blob/main/Data%20Cleaning%20Project%20Queries%3A%20Nashville%20Housing.sql)
 - [COVID-19 Data](https://github.com/siddhi197/sql-dataset-explorations/blob/main/COVID_Data_Exploration.sql)
-- [Layoffs Data Cleaning](https://github.com/siddhi197/sql-dataset-explorations/blob/main/layoff_DataCleaningStatements.sql)
+- [Layoffs Data Analysis](https://github.com/siddhi197/sql-dataset-explorations/tree/main/layoff_analysis)
 
 
 3. **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
