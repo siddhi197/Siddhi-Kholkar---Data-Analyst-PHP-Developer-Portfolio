@@ -130,9 +130,10 @@ Here is a list of relevant certifications that demonstrate my commitment to lear
 
 You can reach me at:
 - [Email](mailto:Siddhi197@gmail.com)
-- [LinkedIn](your_linkedin_profile)
-- [GitHub](https://github.com/siddhi197)
-- [Phone](tel:+14844794985)
+- [LinkedIn](https://www.linkedin.com/in/siddhi197/)
+- [GitHub](https://github.com/siddhi197/Siddhi-Kholkar---Data-Analyst-PHP-Developer-Portfolio)
+
+ 📞 *Phone:* +1 (484) 479-4985  
 
 ---
 
