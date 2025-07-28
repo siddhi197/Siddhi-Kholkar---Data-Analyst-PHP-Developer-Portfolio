@@ -55,6 +55,13 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
    **Description**: This is my capstone project from the **IBM Data Science Professional Certificate**. The project uses real-world data to build predictive models, conduct exploratory data analysis, and present actionable insights through visualizations.
 
 6. **Tableau --> [Go to Tableau](https://public.tableau.com/app/profile/siddhi8530)**
+   ### Tableau Superstore Dashboard Project
+🔗 [View Project Files](https://github.com/siddhi197/tableau-superstore-dashboard)
+- **Tools**: Tableau Public
+- **Description**: Interactive dashboard analyzing sales, profit, and shipping behavior across US states. Includes:
+- Profitability by region and category
+- Shipping performance by mode
+- Dual-axis state-wise map for sales and profit
 ---
 
 ### Web Development Projects
