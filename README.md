@@ -40,34 +40,42 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
 - [Layoffs Data Analysis](https://github.com/siddhi197/sql-dataset-explorations/tree/main/layoff_analysis)
 
 
-3. **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
-   **Technologies**: Excel  
-   **Description**:  A collection of Excel-based data analysis projects that showcase my proficiency in data cleaning, transformation, and analysis. This repository includes practical examples, such as sales data analysis, where I apply key Excel functions (like VLOOKUP, IF, SUMIF), pivot tables, and conditional formulas to derive actionable insights. The projects focus on optimizing and processing data to answer business questions and improve decision-making.
+### 2. **Excel**
+   
+  **Projects**
 
+  **[Excel-Data-Mining](https://github.com/siddhi197/Excel-Data-Analysis)**  
+  **Technologies**: Excel  
+  **Description**:  A collection of Excel-based data analysis projects that showcase my proficiency in data cleaning, transformation, and analysis. This repository includes practical examples, such as sales data analysis, where I apply key Excel functions (like VLOOKUP, IF, SUMIF), pivot tables, and conditional formulas to derive actionable insights. The projects focus on optimizing and processing data to answer business questions and improve decision-making.
+      
 
-4. **[Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard](https://github.com/siddhi197/Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard)**  
+### 3. **Python**
+
+   **Projects**
+  
+   **[Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard](https://github.com/siddhi197/Tesla-vs.-GameStop-Analyzing-Historical-Stock-Trends-and-Revenue-Data-with-an-Interactive-Dashboard)**  
    **Technologies**: Python, yfinance, BeautifulSoup, Plotly  
    **Description**: A project that demonstrates how to extract and visualize stock data using Python. This repository includes examples of fetching stock prices using the `yfinance` library for **Tesla** and **GameStop**, scraping quarterly revenue data with **BeautifulSoup**, and processing the data for analysis. The project also shows how to create interactive graphs using **Plotly**, comparing stock performance with company revenue trends. It provides insights into the correlation between stock prices and revenue over time.
+  
+  
+   **[IBM-Capstone-Project](https://github.com/siddhi197/IBM-Capstone-Project)**  
+     **Technologies**: Python, Jupyter Notebook, IBM Data Science Tools  
+     **Description**: This is my capstone project from the **IBM Data Science Professional Certificate**. The project uses real-world data to build predictive models, conduct exploratory data analysis, and present actionable insights through visualizations.
 
-
-5. **[IBM-Capstone-Project](https://github.com/siddhi197/IBM-Capstone-Project)**  
-   **Technologies**: Python, Jupyter Notebook, IBM Data Science Tools  
-   **Description**: This is my capstone project from the **IBM Data Science Professional Certificate**. The project uses real-world data to build predictive models, conduct exploratory data analysis, and present actionable insights through visualizations.
-
-6. **[Tableau Projects](https://public.tableau.com/app/profile/siddhi8530)**  
+### 4. **[Tableau Projects](https://public.tableau.com/app/profile/siddhi8530)**  
    
-    **Tools**: Tableau Public
-   
-    **Description**:  
-    A collection of interactive Tableau dashboards built using real-world datasets. These dashboards highlight key business metrics,     patterns, and performance insights through engaging visual storytelling.
+  **Tools**: Tableau Public
+ 
+  **Description**:  
+  A collection of interactive Tableau dashboards built using real-world datasets. These dashboards highlight key business metrics,     patterns, and performance insights through engaging visual storytelling.
+  
+  #### **Featured Project:**
+  - 📊 [**Tableau Superstore Dashboard Project**](https://github.com/siddhi197/tableau-superstore-dashboard)  
+    An interactive dashboard analyzing:
+    - 📍 **Profitability** by Region and Category  
+    - 🚚 **Shipping Performance** by Ship Mode  
+    - 🗺️ **Dual-Axis State Map** for Sales and Profit
     
-    #### **Featured Project:**
-    - 📊 [**Tableau Superstore Dashboard Project**](https://github.com/siddhi197/tableau-superstore-dashboard)  
-      An interactive dashboard analyzing:
-      - 📍 **Profitability** by Region and Category  
-      - 🚚 **Shipping Performance** by Ship Mode  
-      - 🗺️ **Dual-Axis State Map** for Sales and Profit
-      - 
 > _Visit my [Tableau Public Profile](https://public.tableau.com/app/profile/siddhi8530) to explore all dashboards._
 
 ### Web Development Projects
