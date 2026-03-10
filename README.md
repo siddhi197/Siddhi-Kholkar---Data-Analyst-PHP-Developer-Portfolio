@@ -1,4 +1,4 @@
-# Siddhi Kholkar - Data Analyst / PHP Developer Portfolio
+# Siddhi Kholkar - Data Analyst Portfolio
 
 ## About Me
 Hi, I'm **Siddhi Kholkar**, a motivated and versatile professional with a background in **web development** and **data analysis**. My journey into **data analysis** began through hands-on projects and advanced courses in tools like **Python**, **Google Looker Studio**, and **IBM Data Science**. I'm passionate about leveraging **data-driven decision-making** to solve real-world problems, improve processes, and create business value.
