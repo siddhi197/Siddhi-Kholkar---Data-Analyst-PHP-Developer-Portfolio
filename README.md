@@ -49,6 +49,7 @@ This repository serves as a portfolio to showcase my **Data Analysis**, **Web De
   **Description**:  A collection of Excel-based data analysis projects that showcase my proficiency in data cleaning, transformation, and analysis. This repository includes practical examples, such as sales data analysis, where I apply key Excel functions (like VLOOKUP, IF, SUMIF), pivot tables, and conditional formulas to derive actionable insights. The projects focus on optimizing and processing data to answer business questions and improve decision-making.
 
   **[Excel-Business-Analysis-Projects](https://github.com/siddhi197/Excel-Business-Analysis-Projects)**  
+  **[Excel-Marketing-Analytics-Project](https://github.com/siddhi197/Excel-Marketing-Analytics-Project)**  
 
       
 
